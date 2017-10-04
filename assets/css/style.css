@@ -1,0 +1,73 @@
+body{
+background: black;
+}
+
+.jumbotron .h1, .jumbotron h1{
+font-family: 'Amatic SC', cursive;
+font-weight: bold;
+text-align: center;
+font-size: 120px;
+color: white;
+
+}
+
+p{
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+color: white;
+
+
+
+}
+
+#emotion-picks{
+	text-align: center;
+color: white;
+margin-bottom: 10px;
+}
+
+#emotion-input{
+	margin: 10px;
+	color: black
+}
+
+.btn-primary{
+	background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);;
+}
+
+
+
+.jumbotron{
+	background: none;
+
+}
+
+
+#buttons-view{
+background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+button{
+background: none;
+color: white;
+
+}
+
+img{
+	padding: 10px;
+	float: left;
+	position: relative;
+}
+
+h2{
+	font-size: 12px;
+	color: white;
+	margin-top: 10px;
+	float: left;
+	border-color: white;
+	border-style: solid;
+	border-width: 1px;
+	padding: 3px; 
+	position: relative;
+	
+}
